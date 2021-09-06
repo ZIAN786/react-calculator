@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(165, 160, 153);
+}
+#root{
+    margin-top: 400px;
+    margin-left: 12%;
+}
+a{
+ color: rgb(92, 25, 25);
+ font-size: 25px;
+}
+footer{
+    font-size: 15px;
+}
